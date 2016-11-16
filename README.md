@@ -5,6 +5,6 @@ A simple todo webapp based on vue and flask, flask offers restful api and vue re
 pip install -r requirements.txt
 
 ## Running
-python app.py initdb
-python app.py
+```python app.py initdb```
+```python app.py```
 
